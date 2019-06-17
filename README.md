@@ -5,7 +5,7 @@ Teaching and learning materials for [CSC 5741 -- Data Mining and Warehousing](ht
 ## Repository directories 
 * slides---lecture series slides
 * notebooks---Jupyter Notebooks
-* datasets---datasets used in source code
+* data---datasets used in source code
 
 ## Lecture Series
 1. Administrivia and Course Introduction 
